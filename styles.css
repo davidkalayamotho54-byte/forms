@@ -27,3 +27,11 @@ input {
   margin: 5px;
   padding: 8px;
 }
+input[type="submit"]:hover{
+  background-color: green;
+  color: white;
+}
+input[typr="reset"]:hover{
+  background-color: red;
+  color: white;
+}
