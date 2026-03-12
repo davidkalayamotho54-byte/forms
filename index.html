@@ -85,6 +85,17 @@
             <label for="no">No</label>
         </div>
                 <br>
+        <script>
+            function validateForm(){
+                let name = document.forms["myForm"]["username"].value;
+
+                if(name ==""){
+                            alert("Name must be filled out");
+                                        return false;
+                }
+            }
+            
+                </script>
          <div>
           <input type="submit" value="Submit">
               <input type="reset" value="Reset">
