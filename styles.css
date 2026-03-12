@@ -1,7 +1,12 @@
 h1{
   font-family: Arial, sans-serif;
   text-align: center;
-  color: #007bff;
+  
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2{
