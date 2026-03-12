@@ -32,6 +32,6 @@ input[type="submit"]:hover{
   color: white;
 }
 input[type="reset"]:hover{
-  background-color: red;
+  background-color: #f44336;
   color: white;
 }
